@@ -1,3 +1,10 @@
 1. I have Cloned the remote repository using git Cloned.
 2. inside this repo i have created a new text file using touch.
 3. and then i have opened a whole folder in VS Code using Code .
+4. I made some changes in VS Code
+5. then i add the context to the file using git add
+6. then git commit
+7. the git push
+
+----- that's it and this is my final modification for this file.
+----- thanks for your attention to this matter.
