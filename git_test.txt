@@ -1,0 +1,3 @@
+1. I have Cloned the remote repository using git Cloned.
+2. inside this repo i have created a new text file using touch.
+3. and then i have opened a whole folder in VS Code using Code .
